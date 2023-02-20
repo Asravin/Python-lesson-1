@@ -1,0 +1,9 @@
+name = None
+a = 123
+b = 1.23
+print(a)               #123
+print(b)               #1.23
+name = 1234
+print(name)           #1234
+
+print(type(name))     #функция которая указывает на тип данных
