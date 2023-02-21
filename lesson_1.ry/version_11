@@ -1,0 +1,6 @@
+line = "Можно использовать влаженые циклы"
+for i in range(5):
+    line = "вложенные циклы"
+    for j in range(5):
+        line += "циклы"
+    print(line)

@@ -1,0 +1,8 @@
+for i in "qwerty":
+    print(i) 
+# q
+# w
+# e
+# r
+# t
+# y

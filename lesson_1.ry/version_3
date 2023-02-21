@@ -1,0 +1,7 @@
+a = 3
+b = 11
+c = 2022
+print(a, b, c)
+print('a','b','c')
+print('{}-{}-{}'. format(a, b, c))
+print(f'first - {a} second - {b} third - {c}')
