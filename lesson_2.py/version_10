@@ -1,0 +1,6 @@
+text = "Python"
+print(int(text))
+
+
+
+
